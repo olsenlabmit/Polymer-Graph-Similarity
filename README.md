@@ -14,11 +14,23 @@ The repository is intended for the following use cases:
 
 ## Running the code
 
-### Running notebooks in Google Colab (option 1)
+### Running notebooks in Google Colab
 
 If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant link below.
 
 #### Notebook
+[Polymer_Similarity_Case1](./notebook/Polymer_Similarity_Case1.ipynb) [available]
+[Polymer_Similarity_Case2]() [not available]
+[Polymer_Similarity_Case3]() [not available]
+[Polymer_Similarity_Case4]() [not available]
+[Polymer_Similarity_Case5]() [not available]
+[Polymer_Similarity_Case6]() [not available]
+
+Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150" height="30"/> in the notebook.
+
+It will open a colab notebook. Then you can run the notebook as normal. All the required libraries and functions exist in the colab notebook.
+
+
 
 ## Contact
 
