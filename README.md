@@ -35,11 +35,15 @@ It will open a colab notebook. Then you can run the notebook as normal. All the 
 ## Contact
 
 Jiale Shi, PhD  
+
 Postdoctoral Associate  
+
 Department of Chemical Engineering 
+
 Massachusetts Institute of Technology (MIT) 
 
 Email: jialeshi@mit.edu  
+
 GithubID: shijiale0609  
  
 
