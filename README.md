@@ -1,4 +1,4 @@
-# Polymer Graph Similarity
+# Quantifying Pairwise Chemical Similarity for Polymers
 
 
 This repository supports the following manuscript which has been submitted for peer-review.
@@ -35,4 +35,4 @@ GithubID: shijiale0609
 
 If you use the code, please cite our repository since our manuscript is currently submitted for peer-review:
 
-Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen (2023), Polymer Graph Similarity, https://github.com/olsenlabmit/Polymer-Graph-Similarity
+Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen (2023), "Quantifying Pairwise Chemical Similarity for Polymers", https://github.com/olsenlabmit/Polymer-Graph-Similarity
