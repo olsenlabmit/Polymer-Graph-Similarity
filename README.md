@@ -1,1 +1,1 @@
-# Polymer-Graph-Similarity
+# Polymer Graph Similarity
