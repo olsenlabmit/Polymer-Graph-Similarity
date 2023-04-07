@@ -1,11 +1,11 @@
 # Quantifying Pairwise Chemical Similarity for Polymers
 
 
-This repository supports the following manuscript which has been submitted for peer-review.
+This repository supports the following manuscript, which has been submitted for peer-review.
 
-Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen, "Quantifying Pairwise Chemical Similarity for Polymers", *Macromolecule*, submitted.
+Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen, "Quantifying Pairwise Chemical Similarity for Polymers", *Macromolecules*, submitted.
 
-Defining the similarity between chemical entities is an essential task in polymer informatics, enabling ranking, clustering, and classification. Despite its importance, pairwise chemical similarity for polymers remains an open problem. Here, a similarity function for polymers with well-defined backbones is designed based on polymers’ stochastic graph representations generated from canonical BigSMILES, a structurally-based line notation for describing macromolecules. The stochastic graph representations are separated into three parts: repeat units, end groups, and polymer topology. The [earth mover’s distance](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) is utilized to calculate the similarity of the repeat units and end groups, while the [graph edit distance](https://en.wikipedia.org/wiki/Graph_edit_distance) is used to calculate the similarity of the topology. These three values can be linearly or nonlinearly combined to yield an overall pairwise chemical similarity score for polymers that is largely consistent with the chemical intuition of expert users and is adjustable based on the relative importance of different chemical features for a given similarity problem. This method gives a reliable solution to quantitatively calculate the pairwise chemical similarity score for polymers and represents a vital step toward building search engines and quantitative design tools for polymer data.
+In this work, we proposed a reliable and adjustable method to quantitatively calculate the pairwise chemical similarity score for polymers, where the [earth mover’s distance](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) is utilized to calculate the similarity of the repeat units and end groups, while the [graph edit distance](https://en.wikipedia.org/wiki/Graph_edit_distance) is used to calculate the similarity of the topology. These three values then are combined to yield an overall pairwise chemical similarity score for polymers.
 
 The repository is intended for the following use cases:
 
@@ -26,9 +26,9 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 - [Polymer_Similarity_Case5]() [not available]
 - [Polymer_Similarity_Case6]() [not available]
 
-Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150" height="30"/> in the notebook.
+Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="75" height="15"/> in the notebook.
 
-It will open a colab notebook. Then you can run the notebook as normal. All the required libraries and functions exist in the colab notebook.
+It will open a colab notebook. Then you can run the notebook as normal. All the required libraries and functions are present in the colab notebook.
 
 
 
@@ -49,6 +49,6 @@ GithubID: shijiale0609
 
 ## How to cite
 
-If you use the code, please cite our repository since our manuscript is currently submitted for peer-review:
+If you use the code, please cite our repository since our manuscript is currently in review:
 
 Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen (2023), "Quantifying Pairwise Chemical Similarity for Polymers", https://github.com/olsenlabmit/Polymer-Graph-Similarity
