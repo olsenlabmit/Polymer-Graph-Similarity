@@ -19,12 +19,13 @@ The repository is intended for the following use cases:
 If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant link below.
 
 #### Notebook
+- [Polymer_Similarity_Method_PolymerA_PolymerB]()
 - [Polymer_Similarity_Case1_Varying_Repeat_Units](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units.ipynb)
-- [Polymer_Similarity_Case2]() [not available]
-- [Polymer_Similarity_Case3]() [not available]
-- [Polymer_Similarity_Case4]() [not available]
-- [Polymer_Similarity_Case5]() [not available]
-- [Polymer_Similarity_Case6]() [not available]
+- [Polymer_Similarity_Case2_Varying_Topologies]() [not available]
+- [Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies]() [not available]
+- [Polymer_Similarity_Case4_Graft_Copolymers]() [not available]
+- [Polymer_Similarity_Case5_Segmented_Polymers]() [not available]
+- [Polymer_Similarity_Tacticity]() [not available]
 
 Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="75" height="15"/> in the notebook.
 
