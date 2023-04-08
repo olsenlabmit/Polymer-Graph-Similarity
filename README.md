@@ -5,7 +5,7 @@ This repository supports the following manuscript, which has been submitted for 
 
 Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen, "Quantifying Pairwise Chemical Similarity for Polymers", submitted.
 
-In this work, we proposed a reliable method to quantitatively calculate the pairwise chemical similarity score for polymers, where the [earth mover’s distance (EMD)](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) is utilized to calculate the similarity of the repeat units and end groups, while the [graph edit distance (GED)(https://en.wikipedia.org/wiki/Graph_edit_distance) is used to calculate the similarity of the topology. These three values then are combined to yield an overall pairwise chemical similarity score for polymers.
+In this work, we proposed a reliable method to quantitatively calculate the pairwise chemical similarity score for polymers, where the [earth mover’s distance (EMD)](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) is utilized to calculate the similarity of the repeat units and end groups, while the [graph edit distance (GED)](https://en.wikipedia.org/wiki/Graph_edit_distance) is used to calculate the similarity of the topology. These three values then are combined to yield an overall pairwise chemical similarity score for polymers.
 
 The repository is intended for the following use cases:
 
