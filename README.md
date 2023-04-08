@@ -19,7 +19,7 @@ The repository is intended for the following use cases:
 If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant link below.
 
 #### Notebook
-- [Polymer_Similarity_Case1](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units.ipynb)
+- [Polymer_Similarity_Case1_Varying_Repeat_Units](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units.ipynb)
 - [Polymer_Similarity_Case2]() [not available]
 - [Polymer_Similarity_Case3]() [not available]
 - [Polymer_Similarity_Case4]() [not available]
