@@ -31,7 +31,11 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 * [Polymer_Similarity_Varying_Weight_Settings_for_Overall_Similarity_Score](./notebook/Polymer_Similarity_Varying_Weight_Settings_for_Overall_Similarity_Score.ipynb)
 * Weighted Arithmetic Mean for Overall Similarity Score
   1. [Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean.ipynb)
-
+  2. [Polymer_Similarity_Case2_Varying_Topologies_Arithmetic_Mean](./notebook/Polymer_Similarity_Case2_Varying_Topologies_Arithmetic_Mean.ipynb)
+  3. [Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies_Arithmetic_Mean](./notebook/Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies_Arithmetic_Mean.ipynb)
+  4. [Polymer_Similarity_Case4_Graft_Copolymers_Arithmetic_Mean](./notebook/Polymer_Similarity_Case4_Graft_Copolymers_Arithmetic_Mean.ipynb) 
+  5. [Polymer_Similarity_Case5_Segmented_Polymers_Arithmetic_Mean](./notebook/Polymer_Similarity_Case5_Segmented_Polymers_Arithmetic_Mean.ipynb) 
+  
 * [Polymer_Similarity_Tacticity](./notebook/Polymer_Similarity_Tacticity.ipynb)
 
 Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="75" height="15"/> in the notebook.
