@@ -34,7 +34,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
   2. [Overall Pairwise Similarity Scores with Arithmetic Means Case 2](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case2.ipynb)
   3. [Overall Pairwise Similarity Scores with Arithmetic Means Case 3](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case3.ipynb)
   4. [Overall Pairwise Similarity Scores with Arithmetic Means Case 4](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case4.ipynb) 
-  5. [Overall Pairwise Similarity Scores with Arithmetic Means Case 5(./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case5.ipynb) 
+  5. [Overall Pairwise Similarity Scores with Arithmetic Means Case 5](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case5.ipynb) 
 * [SI-IV: Similarity Calculation for Random Copolymer Polymer A with Different Composition Ratio of Repeat Units and Diblock Copolymer Polymer B with Different Block Length Ratio](./notebook/Polymer_Similarity_PolymerA_PolymerB_Fine_Calculation.ipynb)
 * [SI-V: Similarity Calculation for Graft Polymers with Different Lengths of Side Chains](./notebook/Polymer_Similarity_Case4_Graft_Copolymers_Fine_Calculation.ipynb)
 * [SI-VI: Similarity Calculation for Segmented Polymers with Different Fractions and Different Lengths of Macromonomers](./notebook/Polymer_Similarity_Case5_Segmented_Polymers_Fine_Calculation.ipynb)
