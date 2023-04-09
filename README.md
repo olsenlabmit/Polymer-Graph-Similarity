@@ -28,6 +28,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 
 #### Notebook for supporting information
 - [Polymer_Similarity_EMD_vs_Simple_Sum](./notebook/Polymer_Similarity_EMD_vs_Simple_Sum.ipynb)
+- [Polymer_Similarity_Varying_Weight_Settings_for_Overall_Similarity_Score](./notebook/Polymer_Similarity_Varying_Weight_Settings_for_Overall_Similarity_Score.ipynb)
 - [Polymer_Similarity_Tacticity](./notebook/Polymer_Similarity_Tacticity.ipynb)
 
 Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="75" height="15"/> in the notebook.
