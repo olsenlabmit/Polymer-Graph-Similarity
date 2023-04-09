@@ -35,7 +35,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
   3. [Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies_Arithmetic_Mean](./notebook/Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies_Arithmetic_Mean.ipynb)
   4. [Polymer_Similarity_Case4_Graft_Copolymers_Arithmetic_Mean](./notebook/Polymer_Similarity_Case4_Graft_Copolymers_Arithmetic_Mean.ipynb) 
   5. [Polymer_Similarity_Case5_Segmented_Polymers_Arithmetic_Mean](./notebook/Polymer_Similarity_Case5_Segmented_Polymers_Arithmetic_Mean.ipynb) 
-* Polymer Similarity Calculation with Specified Polymerization Degrees or Specified Fractions
+* Polymer Similarity Fine Calculation with Specified Polymerization Degrees or Specified Fractions
   1. [Polymer_Similarity_PolymerA_PolymerB_Fine_Calculation](./notebook/Polymer_Similarity_PolymerA_PolymerB_Fine_Calculation.ipynb)
   2. [Polymer_Similarity_Case4_Graft_Copolymers_Fine_Calculation](./notebook/Polymer_Similarity_Case4_Graft_Copolymers_Fine_Calculation.ipynb)
   3. [Polymer_Similarity_Case5_Segmented_Polymers_Fine_Calculation](./notebook/Polymer_Similarity_Case5_Segmented_Polymers_Fine_Calculation.ipynb)
