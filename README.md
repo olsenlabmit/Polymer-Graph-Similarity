@@ -30,7 +30,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 * [Polymer_Similarity_EMD_vs_Simple_Sum](./notebook/Polymer_Similarity_EMD_vs_Simple_Sum.ipynb)
 * [Polymer_Similarity_Varying_Weight_Settings_for_Overall_Similarity_Score](./notebook/Polymer_Similarity_Varying_Weight_Settings_for_Overall_Similarity_Score.ipynb)
 * Weighted Arithmetic Mean for Overall Similarity Score
-  *[Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean.ipynb)
+  1. [Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean.ipynb)
 
 * [Polymer_Similarity_Tacticity](./notebook/Polymer_Similarity_Tacticity.ipynb)
 
