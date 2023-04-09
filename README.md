@@ -16,7 +16,7 @@ The repository is intended for the following use cases:
 
 ### Running notebooks in Google Colab
 
-If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant link below.
+If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant links below.
 
 #### Notebook for Main Text
 * [Polymer_Similarity_Method_Section_PolymerA_PolymerB](./notebook/Polymer_Similarity_Method_Section_PolymerA_PolymerB.ipynb)
