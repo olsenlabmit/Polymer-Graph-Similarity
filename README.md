@@ -35,10 +35,10 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
   3. [Overall Pairwise Similarity Scores with Arithmetic Means Case 3](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case3.ipynb)
   4. [Overall Pairwise Similarity Scores with Arithmetic Means Case 4](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case4.ipynb) 
   5. [Overall Pairwise Similarity Scores with Arithmetic Means Case 5](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case5.ipynb) 
-* [SI-IV: Similarity Calculation for Random Copolymer Polymer A with Different Composition Ratio of Repeat Units and Diblock Copolymer Polymer B with Different Block Length Ratio](./notebook/Polymer_Similarity_PolymerA_PolymerB_Fine_Calculation.ipynb)
-* [SI-V: Similarity Calculation for Graft Polymers with Different Lengths of Side Chains](./notebook/Polymer_Similarity_Case4_Graft_Copolymers_Fine_Calculation.ipynb)
-* [SI-VI: Similarity Calculation for Segmented Polymers with Different Fractions and Different Lengths of Macromonomers](./notebook/Polymer_Similarity_Case5_Segmented_Polymers_Fine_Calculation.ipynb)
-* [SI-VII: Similarity Calculation including Tacticity](./notebook/Polymer_Similarity_Tacticity.ipynb)
+* [SI-IV: Similarity Calculation for Random Copolymer Polymer A with Different Composition Ratio of Repeat Units and Diblock Copolymer Polymer B with Different Block Length Ratio](./notebook/Polymer_Similarity_SI_Calculation_for_Random_Copolymer_PolymerA_with_Different_Composition_Ratio_of_Repeat_Units_and_Diblock_Copolymer_PolymerB_with_Different_Block_Length_Ratio.ipynb)
+* [SI-V: Similarity Calculation for Graft Polymers with Different Lengths of Side Chains](./notebook/Polymer_Similarity_SI_Calculation_for_Graft_Polymers_with_Different_Lengths_of_Side_Chains.ipynb)
+* [SI-VI: Similarity Calculation for Segmented Polymers with Different Fractions and Different Lengths of Macromonomers](./notebook/Polymer_Similarity_SI_Calculation_for_Segmented_Polymers_with_Different_Fractions_and_Different_Lengths_of_Macromonomers.ipynb)
+* [SI-VII: Similarity Calculation including Tacticity](./notebook/Polymer_Similarity_SI_Tacticity.ipynb)
 
 Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="75" height="15"/> in the notebook.
 
