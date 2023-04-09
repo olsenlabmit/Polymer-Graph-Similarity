@@ -30,7 +30,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 * [SI-I: Earth Mover’s Distance vs. Simple Sum or Average Method](./notebook/Polymer_Similarity_SI_Earth_Mover_Distance_vs_Simple_Sum_or_Average_Method.ipynb)
 * [SI-II: Modifying Weights for Final Ranking Order of  Overall Similarity Score](./notebook/Polymer_Similarity_SI_Modifying_Weights_for_Final_Ranking_Order_of_Overall_Similarity_Score.ipynb)
 * SI-III: Overall Pairwise Similarity Scores with Arithmetic Means
-  1. [Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean.ipynb)
+  1. [Overall Pairwise Similarity Scores with Arithmetic Means Case 1](./notebook/Polymer_Similarity_SI_Overall_Pairwise_Similarity_Scores_with_Arithmetic_Means_Case1.ipynb)
   2. [Polymer_Similarity_Case2_Varying_Topologies_Arithmetic_Mean](./notebook/Polymer_Similarity_Case2_Varying_Topologies_Arithmetic_Mean.ipynb)
   3. [Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies_Arithmetic_Mean](./notebook/Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies_Arithmetic_Mean.ipynb)
   4. [Polymer_Similarity_Case4_Graft_Copolymers_Arithmetic_Mean](./notebook/Polymer_Similarity_Case4_Graft_Copolymers_Arithmetic_Mean.ipynb) 
