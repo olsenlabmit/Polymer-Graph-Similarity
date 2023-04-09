@@ -18,13 +18,16 @@ The repository is intended for the following use cases:
 
 If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant link below.
 
-#### Notebook
+#### Notebook for main text
 - [Polymer_Similarity_Method_Section_PolymerA_PolymerB](./notebook/Polymer_Similarity_Method_Section_PolymerA_PolymerB.ipynb)
 - [Polymer_Similarity_Case1_Varying_Repeat_Units](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units.ipynb)
 - [Polymer_Similarity_Case2_Varying_Topologies](./notebook/Polymer_Similarity_Case2_Varying_Topologies.ipynb)
 - [Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies](./notebook/Polymer_Similarity_Case3_Varying_Both_Repeat_Units_and_Topologies.ipynb)
 - [Polymer_Similarity_Case4_Graft_Copolymers](./notebook/Polymer_Similarity_Case4_Graft_Copolymers.ipynb) 
 - [Polymer_Similarity_Case5_Segmented_Polymers](./notebook/Polymer_Similarity_Case5_Segmented_Polymers.ipynb) 
+
+#### Notebook for supporting information
+- [Polymer_Similarity_EMD_vs_Simple_Sum](./notebook/Polymer_Similarity_EMD_vs_Simple_Sum.ipynb)
 - [Polymer_Similarity_Tacticity](./notebook/Polymer_Similarity_Tacticity.ipynb)
 
 Then open the colab badge <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="75" height="15"/> in the notebook.
