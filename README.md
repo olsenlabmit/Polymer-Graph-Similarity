@@ -28,7 +28,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 
 #### Notebook for supporting information
 * [SI-I: Earth Mover’s Distance vs. Simple Sum or Average Method](./notebook/Polymer_Similarity_SI_Earth_Mover_Distance_vs_Simple_Sum_or_Average_Method.ipynb)
-* [SI-II: Modifying Weights for Final Ranking Order of  Overall Similarity Score](./notebook/Polymer_Similarity_SI_Modifying _Weights_for_Final_Ranking_Order_of_Overall_Similarity_Score.ipynb)
+* [SI-II: Modifying Weights for Final Ranking Order of  Overall Similarity Score](./notebook/Polymer_Similarity_SI_Modifying_Weights_for_Final_Ranking_Order_of_Overall_Similarity_Score.ipynb)
 * SI-III: Overall Pairwise Similarity Scores with Arithmetic Means
   1. [Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units_Arithmetic_Mean.ipynb)
   2. [Polymer_Similarity_Case2_Varying_Topologies_Arithmetic_Mean](./notebook/Polymer_Similarity_Case2_Varying_Topologies_Arithmetic_Mean.ipynb)
