@@ -18,7 +18,7 @@ The repository is intended for the following use cases:
 
 If you are interested in running one or more notebooks in [Google Colab](https://colab.research.google.com/), first click on the relevant link below.
 
-#### Notebook for main text
+#### Notebook for Main Text
 * [Polymer_Similarity_Method_Section_PolymerA_PolymerB](./notebook/Polymer_Similarity_Method_Section_PolymerA_PolymerB.ipynb)
 * [Polymer_Similarity_Case1_Varying_Repeat_Units](./notebook/Polymer_Similarity_Case1_Varying_Repeat_Units.ipynb)
 * [Polymer_Similarity_Case2_Varying_Topologies](./notebook/Polymer_Similarity_Case2_Varying_Topologies.ipynb)
@@ -26,7 +26,7 @@ If you are interested in running one or more notebooks in [Google Colab](https:/
 * [Polymer_Similarity_Case4_Graft_Copolymers](./notebook/Polymer_Similarity_Case4_Graft_Copolymers.ipynb) 
 * [Polymer_Similarity_Case5_Segmented_Polymers](./notebook/Polymer_Similarity_Case5_Segmented_Polymers.ipynb) 
 
-#### Notebook for supporting information
+#### Notebook for Supporting Information
 * [SI-I: Earth Mover’s Distance vs. Simple Sum or Average Method](./notebook/Polymer_Similarity_SI_Earth_Mover_Distance_vs_Simple_Sum_or_Average_Method.ipynb)
 * [SI-II: Modifying Weights for Final Ranking Order of  Overall Similarity Score](./notebook/Polymer_Similarity_SI_Modifying_Weights_for_Final_Ranking_Order_of_Overall_Similarity_Score.ipynb)
 * SI-III: Overall Pairwise Similarity Scores with Arithmetic Means
