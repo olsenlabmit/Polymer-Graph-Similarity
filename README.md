@@ -1,9 +1,9 @@
 # Quantifying Pairwise Chemical Similarity for Polymers
 
 
-This repository supports the following manuscript, which has been submitted for peer-review.
+This repository supports the following manuscript.
 
-Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen, "Quantifying Pairwise Chemical Similarity for Polymers", Macromolecules. Accepted.
+Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen, "Quantifying Pairwise Chemical Similarity for Polymers", Macromolecules. 2023. [Link](https://doi.org/10.1021/acs.macromol.3c00761)
 
 In this work, we proposed a reliable method to quantitatively calculate the pairwise chemical similarity score for polymers, where the [earth mover’s distance (EMD)](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) is utilized to calculate the similarity of the repeat units and end groups, while the [graph edit distance (GED)](https://en.wikipedia.org/wiki/Graph_edit_distance) is used to calculate the similarity of the topology. These three values then are combined to yield an overall pairwise chemical similarity score for polymers.
 
@@ -60,9 +60,16 @@ Email: jialeshi@mit.edu
 
 GithubID: shijiale0609  
  
-
 ## How to cite
 
-If you use the code, please cite our repository since our manuscript is currently in review:
-
-Jiale Shi, Nathan J. Rebello, Dylan Walsh, Weizhong Zou, Michael E. Deagen, Bruno Salomao Leao, Debra J. Audus, Bradley D. Olsen (2023), "Quantifying Pairwise Chemical Similarity for Polymers", https://github.com/olsenlabmit/Polymer-Graph-Similarity.
+```
+@article{shi2023quantifying,
+author = {Shi, Jiale and Rebello, Nathan J. and Walsh, Dylan and Zou, Weizhong and Deagen, Michael E. and Leao, Bruno Salomao and Audus, Debra J. and Olsen, Bradley D.},
+title = {Quantifying Pairwise Similarity for Complex Polymers},
+journal = {Macromolecules},
+year = {2023},
+doi = {10.1021/acs.macromol.3c00761},
+URL = {https://doi.org/10.1021/acs.macromol.3c00761},
+eprint = {https://doi.org/10.1021/acs.macromol.3c00761}
+}
+```
